@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: p43mgw618-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/p43mgw618-java-springboot
